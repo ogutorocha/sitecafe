@@ -157,10 +157,12 @@ ul {
     border: 1px solid #888;
     width: 40%;
     text-align: center;
+    border-radius: 10px;
   }
 
   #modaldentro {
     padding-top: 30px;
+    
 
   }
 
@@ -197,5 +199,6 @@ ul {
 
 #btncontato {
     margin-top: 80px;
+    padding-bottom: 80px;
 }
     
